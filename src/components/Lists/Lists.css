@@ -1,0 +1,32 @@
+.modal-header {
+  border: 0 !important;
+}
+.modal-footer {
+  border: 0 !important;
+}
+.modal-body input {
+  padding: 10px 15px;
+}
+#lists a {
+  text-decoration: none;
+  color: #444;
+}
+.list {
+  border-bottom: 3px solid #bbb;
+  /* border-top: 3px solid rgb(0, 218, 0); */
+  background-color: #fff;
+  padding: 12px 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+.list h5 {
+  margin-bottom: 0;
+}
+.delete-btn {
+  /* float-end bg-transparent border-0 btn-hover */
+  float: right;
+  background-color: transparent;
+  border: 0;
+  margin-top: -40px;
+}

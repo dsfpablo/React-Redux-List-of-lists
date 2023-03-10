@@ -1,0 +1,23 @@
+body {
+  background-color: #ddd !important;
+  min-height: 100vh;
+  padding-top: 10px;
+}
+.scale {
+  transition: all ease 0.2s;
+}
+.scale:hover {
+  scale: 104%;
+}
+.created-span {
+  font-size: 0.8rem;
+}
+.hover-blue:hover {
+  color: blue;
+}
+.hover-red:hover {
+  color: red;
+}
+.btn-hover:hover {
+  color: blue;
+}
